@@ -14,6 +14,8 @@ import java.util.Stack;
  *     Calculator.reset();
  * }
  * </p>
+ *
+ * 单元测试覆盖 -> CalculatorTest
  */
 public class Calculator {
 
